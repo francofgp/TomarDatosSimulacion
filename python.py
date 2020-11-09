@@ -36,5 +36,3 @@ while estado >= 1:
 arrivo.close()
 atencion.close()
 cobro.close()
-# pagina de donde saque
-# https://www.programiz.com/python-programming/datetime/current-time
